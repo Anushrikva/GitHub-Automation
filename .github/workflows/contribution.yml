@@ -24,6 +24,6 @@ jobs:
         run: |
           git config user.name "Anushrikva"
           git config user.email "anushriraj16@gmail.com"
-          git add activity.txt
+          git add last-updated.txt
           git commit -m "chore: update activity"
           git push
